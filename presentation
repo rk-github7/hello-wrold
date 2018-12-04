@@ -63,7 +63,7 @@ III. University project:
 私の　大学　の　名前　は　Veermata Jijabai Technological Institute　です。
 
 2.	Project topic was Chatbot.
-プロジェクト トピック は Chatbot でした。
+プロジェクト トピック は チャットボット でした。
 
 3.	Prof. Dhore was my project guide.　He helped me with my project.
 プロジェクト ガイド は Dhore きょうじゅ でした.　彼 は 私の プロジェクトで 私を 助けた。
@@ -74,20 +74,20 @@ III. University project:
 5.	Code was written in python and executed on tensorflow.
 コード　は　Pythonで　書かた、テンソルフロー　で　実行されました。
 
-6.	Chatbot was based on the intents.
-Chatbotは意図に基づいていました。
+6.	Chatbot was based on the intents from the text.
+チャットボット は、テキストからの インテントに 基づいていました。
 
-7.	Algorithms used was LSTM with RNN.
+7.	The algorithms used was LSTM with RNN.
 使用されたアルゴリズムは、RNNを伴うLSTMであった
 
-8.	Algorithms helps to identify the intent of the user text input.
-アルゴリズムは、ユーザのテキスト入力の意図を識別するのに役立つ。
+8.	Algorithms helps to identify the intent of the user's text input.
+アルゴリズム　は、ユーザ　の　テキスト入力　の　インテント　を　識別するのに役立つ。
 
 9.	Based on the intent the bot gives the reply to the user.
-意図に基づいて、ボットはユーザーに返信します。
+インテントに基づいて、ボットはユーザーに返信します。
 
 10.	Accuracy of chatbot mainly depends on the quality and quantity of data.
-チャットボットの精度は、主にデータの質と量に依存します。
+チャットボット の 精度は、主にデータの質と量に依存します。
 
 
 
