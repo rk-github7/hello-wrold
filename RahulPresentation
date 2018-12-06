@@ -71,3 +71,109 @@ Application:
         Or 私はインストールされたソフトウェアのための英語のマニュアルを作った
               3-FES 勉強タスクを完了しました。
               ＦＥＳべんきょうたすくをかんりょうしました。
+              
+
+	3 months learning:
+I have three main task and one additional task
+Main Tasks:
+1)	Japanese language study:
+①	learnt 230 kanji characters
+②	learnt rakuten vocabulary 
+③	learnt minna no nihongo beginner part one
+2)	OJT tasks:
+①	I created FES development Environment
+②	Created English manuals for building FES development environment.
+③	Completed FES arch. Learning task.
+
+3)	Understanding bank rules:
+①	Attending meetings on time
+時間どうりにかいぎにしゅっせきする。
+②	Complete to-do list from GHR and bank HR
+GHRと銀行のHRからのto-doリスト完了します。
+③	SECOM training
+SECOM トレーニング
+
+Additional Task:
+Android Development (Weightage 10%):
+①	Android development environment is completed.
+Androidの開発環境完了します。
+②	Working on sample application development.
+サンプルAndroidアプリケーションを作ています。
+
+
+	Introduction of Rakuten bank:
+Rakuten bank is an internet bank which provides the facility of remote account opening and handling all transaction over the internet. Rakuten has website as well as android/iOS App support.
+
+
+
+Services of Rakuten bank: 
+楽天銀行のサービス
+
+①	Foreign currency deposit
+がいかよきん。
+②	Overseas remittance
+かいがいそうきん
+③	Card loan and housing loan
+カードローンとじゅうたくローン。
+④	Big.toto and lottery 
+Big.totoと抽選（ちゅうせん）。
+⑤	Easy to use card services etc.
+つかいからかんたんカードサービス。
+Benefits of Rakuten bank:
+	楽天銀行のメリット
+
+①	24x7 available ATM service
+ATMサービスは24時間365日りようかのうです。
+
+②	ATM withdrawal fee 0yen (max 7 per month) 
+ATMてすうりょう０円（さいだいつき　7かいまで）。
+
+③	Other bank transfer (max 3 per month)
+たこうあてふりこみてすうりょう０円（さいだいつき３かいまで）。
+④	Earn and spend rakuten super points
+楽天スーパーポイントをかくとくしてつかうことかできます。
+⑤	Money Transfer using Facebook id and email address
+FacebookのIDとメールのIDをしようしてそうきんできます。
+⑥	Finger print authentication to smartphone application.
+スマホのしもんにんしょうログインをしようできます。
+	Introduction of internship project:
+
+Title: Quality analysis of mango fruit using computer vision.
+Description: To classify mangoes in 4 grades with respect to surface damage and estimate their shelf by visual inspection.
+
+Procedure:
+	-Detection of a mango using CNN
+	-Finding blemishes using Otsu’s algorithm and k-means clustering algorithm
+	-Classify in 4 grade
+	-Using color based segmentation detect shelf life.
+
+Application:
+	-In food industry for quality analysis
+	-Import export industry.
+
+
+
+	3ヶ月間学び:
+(3かげつーかんまなび)
+3っつのメインタスクと１つの追加タスクがある。
+			　　ついか
+メインタスク:
+１．	日本語のべんきょう:
+-230かんじをならいました。
+-楽天用語集をならいました
+らくてんようごしゅう
+- みんなの日本語初級1ならいました。
+		にほごしょきゅう
+2.OJT タスク:
+	１- FES開発環境を作成するために私は色々なのソフトウェアをインストールしました.
+ 	FESuかいはつかんきょうをさくせいするためにわたしわいろいろなのソフトウェアをインストールしました。
+
+	２-英語のマニュアル作った
+	えいご　　　　　　つくった。
+	Or 私はインストールされたソフトウェアのための英語のマニュアルを作った
+
+	3-FES 勉強タスクを完了しました。
+	ＦＥＳべんきょうたすくをかんりょうしました。
+
+
+
